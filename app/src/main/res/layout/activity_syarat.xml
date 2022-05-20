@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg_syarat"
+    tools:context=".syarat">
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/syarat_dan_"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginLeft="135dp"
+            android:layout_marginTop="72dp"
+            android:gravity="center_vertical"
+            android:text="Syarat dan Ketentuan"
+            android:textSize="22dp" />
+
+        <ImageView
+            android:id="@+id/imageView4"
+            android:layout_width="75dp"
+            android:layout_height="86dp"
+            android:layout_marginStart="40dp"
+            android:layout_marginTop="40dp"
+            app:srcCompat="@mipmap/syarat" />
+
+
+        <TextView
+            android:id="@+id/sebab_waris"
+            android:layout_width="115dp"
+            android:layout_height="19dp"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginLeft="154dp"
+            android:layout_marginTop="147dp"
+            android:gravity="center_vertical"
+            android:text="Sebab waris"
+            android:textAppearance="@style/sebab_waris" />
+
+        <View
+            android:id="@+id/line_8"
+            android:layout_width="242dp"
+            android:layout_height="0dp"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginLeft="83dp"
+            android:layout_marginTop="181dp"
+            android:background="@drawable/line_8" />
+
+        <TextView
+            android:id="@+id/adanya_hubu"
+            android:layout_width="298dp"
+            android:layout_height="160dp"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginLeft="73dp"
+            android:layout_marginTop="194dp"
+            android:gravity="center_vertical"
+            android:text="@string/adanya_hubu"
+            android:textAppearance="@style/adanya_hubu" />
+
+        <View
+            android:id="@+id/rectangle_2"
+            android:layout_width="333dp"
+            android:layout_height="369dp"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginLeft="52dp"
+            android:layout_marginTop="377dp"
+            android:background="@drawable/rectangle_2" />
+
+        <TextView
+            android:id="@+id/syarat_wari"
+            android:layout_width="115dp"
+            android:layout_height="19dp"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginLeft="164dp"
+            android:layout_marginTop="426dp"
+            android:gravity="center_vertical"
+            android:text="@string/syarat_wari"
+            android:textAppearance="@style/syarat_wari" />
+
+        <TextView
+            android:id="@+id/pewaris_ben"
+            android:layout_width="290dp"
+            android:layout_height="272dp"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginLeft="78dp"
+            android:layout_marginTop="452dp"
+            android:gravity="center_vertical"
+            android:text="Pewaris benar-benar telah meninggal, atau dengan keputusan hakim dinyatakan telah meninggal; misalnya orang yang hilang (mafqud) yang telah lama meninggalkan tempat tanpa diketahui hal ikhwalnya
+Ahli waris benar-benar masih hidup ketika pewaris meninggal, atau dengan kmeputusan hakim dinyatakan masih hidup pada saat pearis meninggal.
+Benar-benar dapat diketahui adanya sebab warisan pada ahli waris, atau dengan kata lain, benar-benar dapat diketahui bahwa ahli waris bersangkutan berhak waris."
+            android:textAppearance="@style/pewaris_ben" />
+
+    </RelativeLayout>
+
+</ScrollView>

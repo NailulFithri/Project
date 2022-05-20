@@ -9,4 +9,21 @@
 
     <string name="hello_first_fragment">Hello first fragment</string>
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="textLearn">E-Waris hadir sebagai aplikasi untuk menghitung harta warisan secara islam (faraidh) untuk mencegah adanya konfliks harta warisan ini</string>
+    <string name="ilmu_faraid">Ilmu Faraidh adalah ilmu yang mempelajari tentang pembagian harta warisan atau peninggalan seseorang kepada saudara dan keluarga yang ditinggalkannya sesuai syariat Islam.</string>
+    <string name="apa_itu">Apa itu ilmu Faraid?</string>
+    <string name="dasar_hukum">Dasar Hukum Ilmu Faraid</string>
+    <string name="sumber">Bagi laki-laki ada hak bagian dari harta peninggalan kedua orang tua dan kerabatnya, dan bagi perempuan ada hak bagian (pula) dari harta peninggalan kedua orang tua dan kerabatnya, baik sedikit atau banyak menurut bagian yang telah ditetapkan.(QS. An-Nisaa : 7)</string>
+    <string name="adapun_hadi">Adapun hadits Rasulullah –shallallahu ‘alaihi wa sallam- yang bercerita tentang harta warisan yaitu: Artinya, “Berikanlah bagian-bagian itu (harta warisan) kepada keluarganya yang berhak (mendapatkannya), jika masih ada yang tersisa maka yang utama mendapatkannya adalah lelaki terdekat (kekerabatannya).” (Muttafaqun ‘alaihi)</string>
+    <string name="apabila_kit">Apabila kita gabungkan hadits ini dengan ayat-ayat di atas maka telah sempurnalah hukum-hukum faraidh yang berkaitan dengan bagian-bagian yang di dapat oleh masing-masing keluarga yang berhak mendapatkannya. Yang mana di dalam hadits yang mulia ini menyebutkan siapa yang berhak mendapatkan sisa harta warisan yang telah dibagikan kepada keluarga yang berhak mendapatkan bagian sesuai bagian-bagiannya masing-masing. Yang berhak mendapatkan sisa pembagian harta warisan adalah ‘ashabah terdekat dengan nasab.</string>
+    <string name="syarat_dan_ketentuan">Syarat dan Ketentuan</string>
+    <string name="adanya_hubu">Adanya hubungan kekerabatan atau nasab, seperti ayah, ibu, anak, cucu, saudara-saudara kandung, saudara-saudara seayah maupun saudara-saudara seibu, begitu juga kakek dan nenek keturunan keatas 2. Sebab adanya hubungan pernikahan. 3. Memerdekakan hamba sahaya</string>
+    <string name="syarat_wari">syarat_waris</string>
+    <string name="pewaris_ben">Pewaris benar-benar telah meninggal, atau dengan keputusan hakim dinyatakan telah meninggal; misalnya orang yang hilang (mafqud) yang telah lama meninggalkan tempat tanpa diketahui hal ikhwalnya
+Ahli waris benar-benar masih hidup ketika pewaris meninggal, atau dengan kmeputusan hakim dinyatakan masih hidup pada saat pearis meninggal.
+Benar-benar dapat diketahui adanya sebab warisan pada ahli waris, atau dengan kata lain, benar-benar dapat diketahui bahwa ahli waris bersangkutan berhak waris.
+    </string>
+    <string name="s">Pewaris benar-benar telah meninggal, atau dengan keputusan hakim dinyatakan telah meninggal; misalnya orang yang hilang (mafqud) yang telah lama meninggalkan tempat tanpa diketahui hal ikhwalnya Ahli waris benar-benar masih hidup ketika pewaris meninggal, atau dengan kmeputusan hakim dinyatakan masih hidup pada saat pearis meninggal. Benar-benar dapat diketahui adanya sebab warisan pada ahli waris, atau dengan kata lain, benar-benar dapat diketahui bahwa ahli waris bersangkutan berhak waris.</string>
+    <string name="about_us">About Us</string>
+
 </resources>

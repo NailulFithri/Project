@@ -3,13 +3,23 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/BELAJAR/Project/app/src/main/res/drawable/ellipse_6.xml" value="0.214" />
+        <entry key="..\:/BELAJAR/Project/app/src/main/res/drawable/femalepose_.xml" value="0.214" />
         <entry key="..\:/BELAJAR/Project/app/src/main/res/drawable/ic_baseline_help_24.xml" value="0.214" />
+        <entry key="..\:/BELAJAR/Project/app/src/main/res/drawable/line_8.xml" value="0.214" />
+        <entry key="..\:/BELAJAR/Project/app/src/main/res/drawable/rectangle_1.xml" value="0.214" />
+        <entry key="..\:/BELAJAR/Project/app/src/main/res/drawable/rectangle_2.xml" value="0.214" />
+        <entry key="..\:/BELAJAR/Project/app/src/main/res/drawable/rectangle_6.xml" value="0.214" />
+        <entry key="..\:/BELAJAR/Project/app/src/main/res/drawable/rectangle_7.xml" value="0.214" />
         <entry key="..\:/BELAJAR/Project/app/src/main/res/layout/activity_calculate2.xml" value="0.25" />
         <entry key="..\:/BELAJAR/Project/app/src/main/res/layout/activity_calculate7.xml" value="0.21979166666666666" />
         <entry key="..\:/BELAJAR/Project/app/src/main/res/layout/activity_hasil_perhitungan.xml" value="0.21979166666666666" />
-        <entry key="..\:/BELAJAR/Project/app/src/main/res/layout/activity_learn.xml" value="0.2436923148431724" />
+        <entry key="..\:/BELAJAR/Project/app/src/main/res/layout/activity_help.xml" value="0.21979166666666666" />
+        <entry key="..\:/BELAJAR/Project/app/src/main/res/layout/activity_learn.xml" value="0.18461539003270633" />
         <entry key="..\:/BELAJAR/Project/app/src/main/res/layout/activity_main.xml" value="0.21979166666666666" />
+        <entry key="..\:/BELAJAR/Project/app/src/main/res/layout/activity_pengertian.xml" value="0.18461539003270633" />
         <entry key="..\:/BELAJAR/Project/app/src/main/res/layout/activity_splash.xml" value="0.21979166666666666" />
+        <entry key="..\:/BELAJAR/Project/app/src/main/res/layout/activity_syarat.xml" value="0.21979166666666666" />
         <entry key="..\:/BELAJAR/Project/app/src/main/res/layout/activity_what.xml" value="0.16246154322878156" />
       </map>
     </option>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@mipmap/bgabout"
+    tools:context=".Pengertian">
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/apa_itu_ilm"
+            android:layout_width="360dp"
+            android:layout_height="82dp"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginLeft="33dp"
+            android:layout_marginTop="63dp"
+            android:gravity="center_horizontal|center_vertical"
+            android:text="@string/apa_itu"
+            android:textAppearance="@style/apa_itu_ilm" />
+
+        <View
+            android:id="@+id/rectangle_6"
+            android:layout_width="341.05dp"
+            android:layout_height="81dp"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginLeft="40dp"
+            android:layout_marginTop="70dp"
+            android:background="@drawable/rectangle_6" />
+
+        <View
+            android:id="@+id/ellipse_6"
+            android:layout_width="250dp"
+            android:layout_height="232dp"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginLeft="127dp"
+            android:layout_marginTop="217dp"
+            android:background="@drawable/ellipse_6" />
+
+        <TextView
+            android:id="@+id/ilmu_faraid"
+            android:layout_width="196dp"
+            android:layout_height="270dp"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginLeft="156dp"
+            android:layout_marginTop="206dp"
+            android:gravity="center_horizontal|center_vertical"
+            android:text="@string/ilmu_faraid"
+            android:textAppearance="@style/ilmu_faraid" />
+
+        <View
+            android:id="@+id/femalepose_"
+            android:layout_width="187dp"
+            android:layout_height="302dp"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginLeft="9dp"
+            android:layout_marginTop="186dp"
+            android:background="@drawable/femalepose_" />
+
+        <View
+            android:id="@+id/rectangle_1"
+            android:layout_width="460dp"
+            android:layout_height="693dp"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginLeft="4dp"
+            android:layout_marginTop="491dp"
+            android:background="@drawable/rectangle_1" />
+
+        <TextView
+            android:id="@+id/dasar_hukum"
+            android:layout_width="276.63dp"
+            android:layout_height="50dp"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginLeft="71dp"
+            android:layout_marginTop="544dp"
+            android:gravity="center_horizontal|center_vertical"
+            android:text="@string/dasar_hukum"
+            android:textAppearance="@style/dasar_hukum" />
+
+        <TextView
+            android:id="@+id/some_id"
+            android:layout_width="318dp"
+            android:layout_height="127dp"
+            android:layout_below="@id/dasar_hukum"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginLeft="68dp"
+            android:layout_marginTop="602dp"
+            android:gravity="center"
+            android:text="@string/sumber"
+            android:textAppearance="@style/some_id" />
+
+        <TextView
+            android:id="@+id/adapun_hadi"
+            android:layout_width="307dp"
+            android:layout_height="156dp"
+            android:layout_below="@id/some_id"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginLeft="56dp"
+            android:layout_marginTop="735dp"
+            android:gravity="center_horizontal|center_vertical"
+            android:text="@string/adapun_hadi"
+            android:textAppearance="@style/adapun_hadi" />
+
+        <TextView
+            android:id="@+id/apabila_kit"
+            android:layout_width="313dp"
+            android:layout_height="157dp"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginLeft="67dp"
+            android:layout_marginTop="912dp"
+            android:gravity="center_vertical"
+            android:text="@string/apabila_kit"
+            android:textAppearance="@style/apabila_kit" />
+
+
+    </RelativeLayout>
+
+</ScrollView>

@@ -33,14 +33,13 @@
             android:rowCount="2">
 
             <androidx.cardview.widget.CardView
-                android:id="@+id/calculate"
+                android:id="@+id/what"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_rowWeight="1"
                 android:layout_columnWeight="1"
                 android:layout_margin="10dp"
                 app:cardCornerRadius="15dp"
-
                 app:cardElevation="8dp">
 
                 <LinearLayout
@@ -69,7 +68,7 @@
             </androidx.cardview.widget.CardView>
 
             <androidx.cardview.widget.CardView
-                android:id="@+id/learn"
+                android:id="@+id/syarat"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_rowWeight="1"
@@ -108,14 +107,20 @@
         <TextView
             android:id="@+id/textView"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
+            android:layout_height="182dp"
             android:layout_marginStart="50dp"
-            android:layout_marginTop="30dp"
+            android:layout_marginTop="35dp"
             android:layout_marginEnd="50dp"
-            android:text="E-Waris hadir sebagai aplikasi untuk menghitung harta warisan secara islam (faraidh) untuk mencegah adanya konfliks harta warisan ini"
+            android:text="@string/textLearn"
             android:textAlignment="center"
             android:textColor="#000000"
-            android:textSize="20dp" />
+            android:textSize="24dp" />
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="match_parent"
+            android:layout_height="361dp"
+            app:srcCompat="@drawable/vector6" />
 
     </LinearLayout>
 </RelativeLayout>
